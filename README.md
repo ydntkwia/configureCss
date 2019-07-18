@@ -1,3 +1,5 @@
-<b><h2 align="center">ConfigureCSS</h2></b><br>
+<b><h2 align="center">ConfigureCSS</h2></b>
+Make your coding more easier :D
 <hr>
-<img src="https://drive.google.com/open?id=1zRVrrHSB1A8Z0V5KhnUUNNF9ck89UpKF">
+##How Tou Use?
+<img src="">
