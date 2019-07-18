@@ -9,8 +9,7 @@
 <br>
 
 import <b>configureCss.css</b> or <u>configureCss.min.css</u> into your project<br>
-<b><link rel="stylesheet" type="text/css" href="Path/to/configure.css">
-</b> <br>
+<img src="https://raw.githubusercontent.com/zrafiq111/configureCss/master/doc/path.png" alt="Path">
 Next just add the class you want to add inside the tag html you want to edit<br>
 
 The structure:
@@ -47,7 +46,7 @@ The structure:
 updates will be made regularly every once a week <br>
 
 Next update:
-<ol>
+<ol> 
   <li>Color for background and font</li>
   <li>All padding configuration</li>
   <li>ConfigureCss-Lite.css</li>
@@ -58,3 +57,7 @@ For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">ach
 ## Creators
 
 Ahmad Zahraturrafiq
+Indonesia
+
+Wa : <a href="https://wa.me/6281312119466?text=Hello%20Zet">+62 81312119466</a><br>
+Fb : <a href="https://web.facebook.com/rfq.ns">Ahmad Zet </a>
