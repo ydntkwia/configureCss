@@ -7,17 +7,19 @@
 
 <img src="https://raw.githubusercontent.com/zrafiq111/configureCss/master/doc/SS.png" alt="How to use?">
 <br>
-import (`configureCss.css*`) or (`configureCss.min.css*`) into your project<br>
-(`<link rel="stylesheet" type="text/css" href="Path/to/configure.css">
-*`) <br>
+
+import <b>configureCss.css</b> or <u>configureCss.min.css</u> into your project<br>
+<b><link rel="stylesheet" type="text/css" href="Path/to/configure.css">
+</b> <br>
 Next just add the class you want to add inside the tag html you want to edit<br>
+
 The structure:
 <ul>
   <li><b>f</b>= for the type of class</li>
   <li><b>20</b>= size of class</li>
   <li><b>px</b>=unit* of class used**</li>
  </ul>
- <i>*units available : px, pt, em, %, vh and vw
+ <i>*units available : px, pt, em, %, vh and vw</i>
  <i>**if the unit class name is empty the unit will automatically go to percent</i>
  
   
@@ -51,4 +53,8 @@ Next update:
   <li>ConfigureCss-Lite.css</li>
 </ol>
 
-## 
+For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">achmad.zahra62@gmail.com</a>
+
+## Creators
+
+Ahmad Zahraturrafiq
