@@ -8,8 +8,8 @@
 <img src="https://raw.githubusercontent.com/zrafiq111/configureCss/master/doc/SS.png" alt="How to use?">
 <br>
 
-import <b>configureCss.css</b> or <u>configureCss.min.css</u> into your project<br>
-<img src="https://raw.githubusercontent.com/zrafiq111/configureCss/master/doc/path.png" alt="Path">
+import <b>configureCss.css</b> or <u>configureCss.min.css</u> into your project<br><br>
+<img src="https://raw.githubusercontent.com/zrafiq111/configureCss/master/doc/path.png" alt="Path"><br>
 Next just add the class you want to add inside the tag html you want to edit<br>
 
 The structure:
