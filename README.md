@@ -6,14 +6,14 @@ Make your coding more faster by just changing the class you want.
 
 ```
 <div class="h-10 w-100 red-9-bg">
-		<p class="f-20-px f-uppercase white-font">Hallo</p>
+ <p class="f-20-px f-uppercase white-font">Hallo</p>
 </div>
 ```
 
-import <b>configure.css</b> or <b>configure.min.css</b> into your project<br><br>
+import `configure.css` or `configure.min.css` into your project<br>
 
 ```
-Give examples
+
 ```
 
 Next just add the class you want to add inside the tag html you want to edit<br>
