@@ -4,9 +4,9 @@ Make your coding more faster by just changing the class you want.
 
 ## Table of Contens
 
-- [How To Use](#How To Use?)
+- [Installation](#Installation)
 
-## How To Use?
+## Installation
 
 Import `configure.css` or `configure.min.css` into your project.<br>
 
