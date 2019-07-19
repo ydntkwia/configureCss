@@ -7,6 +7,7 @@ Make your coding more faster by just changing the class you want.
 - [Installation](#Installation)
 - [Features](#Features)
 - [New Update](#New-Update)
+- [Next Update](#Next-Update)
 
 ## Installation
 
@@ -19,7 +20,8 @@ Import `configure.css` or `configure.min.css` into your project.<br>
 Next just add the class you want to add inside the tag html you want to edit.<br>
 Example :
 
-```
+```html
+
 <div class="h-10 w-100 red-9-bg">
   <p class="f-20-px f-uppercase white-font">Hallo</p>
 </div>
@@ -35,6 +37,8 @@ The structure:
 
 > **if the unit class name is empty the unit will automatically go to percent
  
+---
+
 ## Features
 
 <ul>
@@ -58,14 +62,12 @@ The structure:
 
 ## Next Update
 
-updates will be made regularly every once a week <br>
+> updates will be made regularly every once a week <br>
 
 Next update:
-<ol> 
-  <li>Color for background and font</li>
-  <li>All padding configuration</li>
-  <li>ConfigureCss-Lite.css</li>
-</ol>
+
+- All padding and margin configuration
+- lite version
 
 For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">achmad.zahra62@gmail.com</a>
 
