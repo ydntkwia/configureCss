@@ -4,30 +4,29 @@ Make your coding more faster by just changing the class you want.
 
 ## How Tou Use?
 
-```
-<div class="h-10 w-100 red-9-bg">
- <p class="f-20-px f-uppercase white-font">Hallo</p>
-</div>
-```
-
 import `configure.css` or `configure.min.css` into your project<br>
 
 ```
-
+<link rel="stylesheet" type="text/css" href="Configure/configure.min.css">
 ```
 
 Next just add the class you want to add inside the tag html you want to edit<br>
 
+```
+<div class="h-10 w-100 red-9-bg">
+  <p class="f-20-px f-uppercase white-font">Hallo</p>
+</div>
+```
 The structure:
-<ul>
-  <li><b>f</b>= for the type of class</li>
-  <li><b>20</b>= size of class</li>
-  <li><b>px</b>=unit* of class used**</li>
- </ul>
- <i>*units available : px, pt, em, %, vh and vw</i>
- <i>**if the unit class name is empty the unit will automatically go to percent</i>
+
+- `f`  = for the type of class
+- `20` = size of class
+- `px` = unit* of class used**
+
+> *units available : px, pt, em, %, vh and vw
+
+> **if the unit class name is empty the unit will automatically go to percent
  
-  
 ## What's Included
 
 <ul>
