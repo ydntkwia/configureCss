@@ -2,21 +2,27 @@
 
 Make your coding more faster by just changing the class you want.
 
-## How Tou Use?
+## Table of Contens
 
-import `configure.css` or `configure.min.css` into your project<br>
+- [How To Use](#How To Use?)
+
+## How To Use?
+
+Import `configure.css` or `configure.min.css` into your project.<br>
 
 ```
 <link rel="stylesheet" type="text/css" href="Configure/configure.min.css">
 ```
 
-Next just add the class you want to add inside the tag html you want to edit<br>
+Next just add the class you want to add inside the tag html you want to edit.<br>
+Example :
 
 ```
 <div class="h-10 w-100 red-9-bg">
   <p class="f-20-px f-uppercase white-font">Hallo</p>
 </div>
 ```
+
 The structure:
 
 - `f`  = for the type of class
