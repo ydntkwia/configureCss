@@ -1,15 +1,21 @@
-<b><h2 align="center">ConfigureCSS</h2></b>
-<p align="center">
-  Make your coding more faster by just changing the class you want.
-</p>
+# ConfigureCSS
+
+Make your coding more faster by just changing the class you want.
 
 ## How Tou Use?
 
-<img src="https://raw.githubusercontent.com/zrafiq111/configureCss/master/doc/SS.png" alt="How to use?">
-<br>
+```
+<div class="h-10 w-100 red-9-bg">
+		<p class="f-20-px f-uppercase white-font">Hallo</p>
+</div>
+```
 
 import <b>configure.css</b> or <b>configure.min.css</b> into your project<br><br>
-<img src="https://raw.githubusercontent.com/zrafiq111/configureCss/master/doc/path.png" alt="Path"><br>
+
+```
+Give examples
+```
+
 Next just add the class you want to add inside the tag html you want to edit<br>
 
 The structure:
@@ -56,7 +62,7 @@ For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">ach
 
 ## Creators
 
-Ahmad Zahraturrafiq
+Ahmad Zahraturrafiq<br>
 Indonesia
 
 Wa : <a href="https://wa.me/6281312119466?text=Hello%20Zet">+62 81312119466</a><br>
