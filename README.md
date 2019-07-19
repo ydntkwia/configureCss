@@ -9,11 +9,14 @@ Make your coding more faster by just changing the class you want.
 - [New Update](#New-Update)
 - [Next Update](#Next-Update)
 
+---
+
 ## Installation
 
 Import `configure.css` or `configure.min.css` into your project.<br>
 
-```
+```html
+
 <link rel="stylesheet" type="text/css" href="Configure/configure.min.css">
 ```
 
@@ -41,6 +44,8 @@ The structure:
 
 ## Features
 
+
+
 <ul>
   <li>Font configuration</li>
   <li>Text Configuration</li>
@@ -59,6 +64,8 @@ The structure:
  </ul>
 
 ## New Update
+
+> v.1.1.0 +Color configuration for background and font.
 
 ## Next Update
 
