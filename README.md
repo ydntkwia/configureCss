@@ -6,7 +6,7 @@ Make your coding more faster by just changing the class you want.
 
 - [Installation](#Installation)
 - [Features](#Features)
-- [New Update](#New%20Update)
+- [New Update](#New-Update)
 
 ## Installation
 
