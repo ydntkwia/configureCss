@@ -5,6 +5,8 @@ Make your coding more faster by just changing the class you want.
 ## Table of Contens
 
 - [Installation](#Installation)
+- [Features](#Features)
+- [New_Update](#New_Update)
 
 ## Installation
 
@@ -33,7 +35,7 @@ The structure:
 
 > **if the unit class name is empty the unit will automatically go to percent
  
-## What's Included
+## Features
 
 <ul>
   <li>Font configuration</li>
@@ -52,7 +54,9 @@ The structure:
   <li><i>and others</i></li>
  </ul>
 
-## Update
+## New Update
+
+## Next Update
 
 updates will be made regularly every once a week <br>
 
