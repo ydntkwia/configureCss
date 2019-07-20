@@ -42,7 +42,7 @@ The structure:
 
 ## Features
 
-```text
+```
 
 configure.css
 ├─── Font
@@ -113,8 +113,17 @@ configure.css
 |   ├── .white-font & .white-bg
 |   ├── .color***-value****-text
 |   └── .color***-value****-bg
-
-
+├─── Text
+|   ├── .t-d-underline
+|   └── .t.d-none
+└─── Other
+    ├── .t-l (top left)
+    ├── .t-r (top right)
+    ├── .b-l (bottom left)
+    ├── .b-r (bottom right)
+    ├── .o-x-hidden (overflow x hidden)
+    ├── .o-y-hidden (overflow y hidden)
+    └── .border-0
 
 ```
 
@@ -126,11 +135,6 @@ configure.css
 
 > **** value available = 1 ~ 10
 
-<ul>
-  <li>Text Configuration</li>
-  <li>opacity</li>
-  <li><i>and others</i></li>
- </ul>
 
 ## New Update
 
