@@ -24,7 +24,7 @@ Import `configure.css` into your project.<br>
 ```html
 <link rel="stylesheet" type="text/css" href="Path/to/configure.css">
 ```
-or
+or inside your css file
 ```css
 @import url(Path/to/configure.css);
 ```
