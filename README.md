@@ -2,6 +2,8 @@
 
 Make your coding more faster by just changing the class you want.
 
+---
+
 ## Table of Contens
 
 - [Installation](#Installation)
@@ -34,17 +36,45 @@ The structure:
 
 - `f`  = for the type of class
 - `20` = size of class
-- `px` = unit* of class used**
+- `px` = unit of class used
+
+---
+
+## Features
+
+```text
+
+configure.css
+├─── Font
+|   ├── .f-break-all
+|   ├── .f-uppercase & .f-lowercase
+|   ├── .f-left & .f-right
+|   ├── .f-center
+|   ├── .f-bold & .f-light
+|   ├── .f-1 ~ .f-100
+|   ├── .f-1-px ~ .f-1000-px
+|   ├── .f-1-pt ~ .f-100-pt
+|   └── .f-1-em ~ .f-100-em
+├─── Height
+|   ├── .h-1 ~ .h-100
+|   ├── .h-1-px ~ .h-1000-px
+|   ├── .h-1-pt ~ .h-100-pt
+|   ├── .h-1-em ~ .h-100-em
+|   └── .h-1-vh ~ .h-100-vh
+├─── Width
+|   ├── .w-1 ~ .w-100
+|   ├── .w-1-px ~ .w-1000-px
+|   ├── .w-1-pt ~ .w-100-pt
+|   ├── .w-1-em ~ .w-100-em
+|   └── .w-1-vw ~ .w-100-vw
+
+
+```
 
 > *units available : px, pt, em, %, vh and vw
 
 > **if the unit class name is empty the unit will automatically go to percent
  
----
-
-## Features
-
-
 
 <ul>
   <li>Font configuration</li>
@@ -73,6 +103,7 @@ The structure:
 
 Next update:
 
+- All font Weight
 - All padding and margin configuration
 - lite version
 
