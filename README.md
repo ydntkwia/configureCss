@@ -5,25 +5,18 @@
 Make your coding more faster by just changing the class you want.
 
 <center>
-  
 
-  
 ---
 
 ## Table of Contens
 
 - [Installation](#Installation)
-- [Example](#Example)
 - [Features](#Features)
 - [New Update](#New-Update)
 - [Next Update](#Next-Update)
 - [Creator](#Creator)
 
 ---
-
-## Example
-
-![](https://github.com/zrafiq111/configureCss/blob/master/doc/configure.mp4?raw=true)
 
 ## Installation
 
@@ -36,6 +29,9 @@ Import `configure.css` or `configure.min.css` into your project.<br>
 
 Next just add the class you want to add inside the tag html you want to edit.<br>
 Example :
+
+
+![Recordit GIF](http://g.recordit.co/TFN51E19AC.gif)
 
 ```html
 
