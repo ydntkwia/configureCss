@@ -10,6 +10,7 @@ This is very suitable for use as a complement to the CSS framework that you are 
 ## Table of Contens
 
 - [Installation](#Installation)
+- [Example](#Example)
 - [Features](#Features)
 - [New Update](#New-Update)
 - [Next Update](#Next-Update)
@@ -30,9 +31,19 @@ or
 @import url(Path/to/configure.css);
 ```
 
-Next just add the class you want to add inside the tag html you want to edit.<br>
-Example :
+*And if you don't want to download it, you can use this link*
 
+```html
+<link rel="stylesheet" type="text/css" href="https://zrafiq111.netlify.com/configure.min.css">
+```
+
+` for file names adjust to what you want to use  `
+
+---
+
+## Example
+
+Just add the class you want to add inside the tag html you want to edit.<br>
 
 ![Recordit GIF](http://g.recordit.co/TFN51E19AC.gif)
 
