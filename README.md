@@ -6,19 +6,24 @@ Make your coding more faster by just changing the class you want.
 
 <center>
   
-  [![Watch the video](https://youtu.be/vt5fpE0bzSY)
+
   
 ---
 
 ## Table of Contens
 
 - [Installation](#Installation)
+- [Example](#Example)
 - [Features](#Features)
 - [New Update](#New-Update)
 - [Next Update](#Next-Update)
 - [Creator](#Creator)
 
 ---
+
+## Example
+
+![](https://github.com/zrafiq111/configureCss/blob/master/doc/configure.mp4)
 
 ## Installation
 
