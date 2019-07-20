@@ -65,14 +65,14 @@ configure.css
 |   ├── .f-bold & .f-light
 |   └── .f-1 ~ .f-100 (%,px,pt,em)*
 ├─── Height
-|   ├── .h-1 ~ .h-1000 (px,pt,em)*
+|   ├── .h-1 ~ .h-100 (px,pt,em)*
 |   ├── .h-1 ~ .h-100 (%,vh)*
 |   ├── .h-min-1 ~ .h-min-750 (px,pt,em)*
 |   ├── .h-min-1 ~ .h-min-100 (%,vh)*
 |   ├── .h-max-1 ~ .h-max-750 (px,pt,em)*
 |   └── .h-max-1 ~ .h-max-100 (%,vh)*
 ├─── Width
-|   ├── .w-1 ~ .w-1000 (px,pt,em)*
+|   ├── .w-1 ~ .w-100 (px,pt,em)*
 |   ├── .w-1 ~ .w-100 (%,vh)*
 |   ├── .w-min-1 ~ .w-min-750 (px,pt,em)*
 |   ├── .w-min-1 ~ .w-min-100 (%,vh)*
