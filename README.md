@@ -1,10 +1,6 @@
-<center>
-  
 # ConfigureCSS
 
 Make your coding more faster by just changing the class you want.
-
-<center>
 
 ---
 
@@ -36,7 +32,7 @@ Example :
 ```html
 
 <div class="h-10 w-100 red-9-bg">
-  <p class="f-20-px f-uppercase white-font">Hallo</p>
+  <p class="f-center white-font f-20-px f-uppercase">Hallo</p>
 </div>
 ```
 
