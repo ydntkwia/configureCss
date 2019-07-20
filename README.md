@@ -152,7 +152,7 @@ configure.css
 
 > Lite Version
 
-`More faster and more lighter to load`
+More faster and more lighter to load
 
 - values (height,width,margin,padding) are limited to 500px
 - units available only `%`, `px`, `vw` and `vh`
@@ -162,7 +162,7 @@ configure.css
 
 > All Version
 
-`More available values`
+More available values
 
 - values (height,width,margin,padding) are limited to 1000px
 
