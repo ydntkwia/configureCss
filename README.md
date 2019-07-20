@@ -273,10 +273,8 @@ For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">ach
 | <a href="https://github.com/zrafiq111" target="_blank">**Ahmad Zahraturrafiq**</a> |
 | :---: |
 | [![FVCproductions](https://raw.githubusercontent.com/zrafiq111/User-profile/master/photo.png)]()    |
-| <a href="https://github.com/zrafiq111" target="_blank">`github.com/zrafiq111`</a> |
+| `Indonesia` |
 
-Ahmad Zahraturrafiq<br>
-Indonesia
 
 Wa : <a href="https://wa.me/6281312119466?text=Hello%20Zet">+62 81312119466</a><br>
 Fb : <a href="https://web.facebook.com/rfq.ns">Ahmad Zet </a>
