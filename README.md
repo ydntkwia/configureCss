@@ -188,7 +188,6 @@ Next update:
 - Color custom
 - All font Weight
 - All padding and margin configuration
-- lite version
 
 For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">achmad.zahra62@gmail.com</a>
 
