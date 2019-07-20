@@ -31,15 +31,15 @@ Example :
 
 ```html
 
-<div class="h-10 w-100 red-9-bg">
+<div class="h-250-px w-250-px red-9-bg">
   <p class="f-center white-font f-20-px f-uppercase">Hallo</p>
 </div>
 ```
 
 The structure:
 
-- `f`  = for the type of class
-- `20` = size of class
+- `h`  = for the type of class
+- `250` = size of class
 - `px` = unit of class used
 
 ---
