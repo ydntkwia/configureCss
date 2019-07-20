@@ -7,7 +7,8 @@ Make your coding more faster by just changing the class you want.
 ## Table of Contens
 
 - [Installation](#Installation)
-- [Features](#Features)
+- [Features Standard Edition](#Features-Standard-Edition)
+- [Features Lite Edition](#Features-Lite-Edition)
 - [New Update](#New-Update)
 - [Next Update](#Next-Update)
 - [Creator](#Creator)
@@ -44,7 +45,7 @@ The structure:
 
 ---
 
-## Features
+## Features Standard Edition
 
 Tree view of `configure.css`
 
@@ -139,6 +140,15 @@ configure.css
 > *** color available = `grey` , `red` , `green` , `blue`, `yellow`
 
 > **** value available = 1 ~ 10
+
+---
+
+
+## Features Lite Edition
+
+> lighter and faster to load but still has all the standard features
+
+Tree view of `configure-lite.css`
 
 ---
 
