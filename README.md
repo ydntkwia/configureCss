@@ -47,6 +47,8 @@ The structure:
 
 ## Features
 
+Tree view of `configure.css`
+
 ```
 
 configure.css
