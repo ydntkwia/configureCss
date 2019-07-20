@@ -51,61 +51,83 @@ configure.css
 |   ├── .f-left & .f-right
 |   ├── .f-center
 |   ├── .f-bold & .f-light
-|   ├── .f-1 ~ .f-100
-|   ├── .f-1-px ~ .f-1000-px
-|   ├── .f-1-pt ~ .f-100-pt
-|   └── .f-1-em ~ .f-100-em
+|   └── .f-1 ~ .f-100 (%,px,pt,em)*
 ├─── Height
-|   ├── .h-1 ~ .h-100
-|   ├── .h-1-px ~ .h-1000-px
-|   ├── .h-1-pt ~ .h-1000-pt
-|   ├── .h-1-em ~ .h-1000-em
-|   ├── .h-1-vh ~ .h-100-vh
-|   ├── .h-min-1-px ~ .h-min-1000-px
-|   ├── .h-min-1-pt ~ .h-min-1000-pt
-|   ├── .h-min-1-em ~ .h-min-1000-em
-|   ├── .h-min-1-vh ~ .h-min-100-vh
-|   ├── .h-max-1-px ~ .h-max-1000-px
-|   ├── .h-max-1-pt ~ .h-max-1000-pt
-|   ├── .h-max-1-em ~ .h-max-1000-em
-|   └── .h-max-1-vh ~ .h-max-100-vh
+|   ├── .h-1 ~ .h-1000 (px,pt,em)*
+|   ├── .h-1 ~ .h-100 (%,vh)*
+|   ├── .h-min-1 ~ .h-min-1000 (px,pt,em)*
+|   ├── .h-min-1 ~ .h-min-100 (%,vh)*
+|   ├── .h-max-1 ~ .h-max-1000 (px,pt,em)*
+|   └── .h-max-1 ~ .h-max-100 (%,vh)*
 ├─── Width
-|   ├── .w-1 ~ .w-100
-|   ├── .w-1-px ~ .w-1000-px
-|   ├── .w-1-pt ~ .w-1000-pt
-|   ├── .w-1-em ~ .w-1000-em
-|   ├── .w-1-vw ~ .w-100-vw
-|   ├── .w-min-1-px ~ .w-min-1000-px
-|   ├── .w-min-1-pt ~ .w-min-1000-pt
-|   ├── .w-min-1-em ~ .w-min-1000-em
-|   ├── .w-min-1-vw ~ .w-min-100-vw
-|   ├── .w-max-1-px ~ .w-max-1000-px
-|   ├── .w-max-1-pt ~ .w-max-1000-pt
-|   ├── .w-max-1-em ~ .w-max-1000-em
-|   └── .w-max-1-vw ~ .w-max-100-vw
-├─── 
-|   ├── 
+|   ├── .w-1 ~ .w-1000 (px,pt,em)*
+|   ├── .w-1 ~ .w-100 (%,vh)*
+|   ├── .w-min-1 ~ .w-min-1000 (px,pt,em)*
+|   ├── .w-min-1 ~ .w-min-100 (%,vh)*
+|   ├── .w-max-1 ~ .w-max-1000 (px,pt,em)*
+|   └── .w-max-1 ~ .w-max-100 (%,vh)*
+├─── Margin left
+|   ├── .m-l-1-px ~ .m-l-1000-px
+|   ├── .m-l-n-1-px ~ .m-l-n-1000-px (minus value)
+|   ├── .m-l-1 ~ .m-l-1000
+|   └── .m-l-n-1 ~ .m-l-n-1000 (minus value)
+├─── Margin Right
+|   ├── .m-r-1-px ~ .m-r-1000-px
+|   ├── .m-r-n-1-px ~ .m-r-n-1000-px (minus value)
+|   ├── .m-r-1 ~ .m-r-1000
+|   └── .m-r-n-1 ~ .m-r-n-1000 (minus value)
+├─── Margin Top
+|   ├── .m-t-1-px ~ .m-t-1000-px
+|   ├── .m-t-n-1-px ~ .m-t-n-1000-px (minus value)
+|   ├── .m-t-1 ~ .m-t-1000
+|   └── .m-t-n-1 ~ .m-t-n-1000 (minus value)
+├─── Margin Bottom
+|   ├── .m-b-1-px ~ .m-b-1000-px
+|   ├── .m-b-n-1-px ~ .m-b-n-1000-px (minus value)
+|   ├── .m-b-1 ~ .m-b-1000
+|   └── .m-b-n-1 ~ .m-b-n-1000 (minus value)
+├─── Padding left
+|   ├── .p-l-1-px ~ .p-l-1000-px
+|   ├── .p-l-n-1-px ~ .p-l-n-1000-px (minus value)
+|   ├── .p-l-1 ~ .p-l-1000
+|   └── .p-l-n-1 ~ .p-l-n-1000 (minus value)
+├─── Padding Right
+|   ├── .p-r-1-px ~ .p-r-1000-px
+|   ├── .p-r-n-1-px ~ .p-r-n-1000-px (minus value)
+|   ├── .p-r-1 ~ .p-r-1000
+|   └── .p-r-n-1 ~ .p-r-n-1000 (minus value)
+├─── Padding Top
+|   ├── .p-t-1-px ~ .p-t-1000-px
+|   ├── .p-t-n-1-px ~ .p-t-n-1000-px (minus value)
+|   ├── .p-t-1 ~ .p-t-1000
+|   └── .p-t-n-1 ~ .p-t-n-1000 (minus value)
+├─── Padding Bottom
+|   ├── .p-b-1-px ~ .p-b-1000-px
+|   ├── .p-b-n-1-px ~ .p-b-n-1000-px (minus value)
+|   ├── .p-b-1 ~ .p-b-1000
+|   └── .p-b-n-1 ~ .p-b-n-1000 (minus value)
+├─── Opacity
+|   └── .o-0 ~ .o-1
+├─── Color
+|   ├── .black-font & .black-text
+|   ├── .white-font & .white-bg
+|   ├── .color***-value****-text
+|   └── .color***-value****-bg
+
+
 
 ```
 
-> *units available : px, pt, em, %, vh and vw
+> *units available
 
 > **if the unit class name is empty the unit will automatically go to percent
  
+> *** color available = `grey` , `red` , `green` , `blue`, `yellow`
+
+> **** value available = 1 ~ 10
 
 <ul>
-  <li>Font configuration</li>
   <li>Text Configuration</li>
-  <li>Margin Left Configuration</li>
-  <li>Margin Right Configuration</li>
-  <li>Margin Top Configuration</li>
-  <li>Margin Bottom Configuration</li>
-  <li>Padding Left Configuration</li>
-  <li>Padding Right Configuration</li>
-  <li>Padding Top Configuration</li>
-  <li>Padding Bottom Configuration</li>
-  <li>width</li>
-  <li>Height</li>
   <li>opacity</li>
   <li><i>and others</i></li>
  </ul>
@@ -120,6 +142,7 @@ configure.css
 
 Next update:
 
+- Color custom
 - All font Weight
 - All padding and margin configuration
 - lite version
