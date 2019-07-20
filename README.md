@@ -67,55 +67,55 @@ configure.css
 ├─── Height
 |   ├── .h-1 ~ .h-1000 (px,pt,em)*
 |   ├── .h-1 ~ .h-100 (%,vh)*
-|   ├── .h-min-1 ~ .h-min-1000 (px,pt,em)*
+|   ├── .h-min-1 ~ .h-min-750 (px,pt,em)*
 |   ├── .h-min-1 ~ .h-min-100 (%,vh)*
-|   ├── .h-max-1 ~ .h-max-1000 (px,pt,em)*
+|   ├── .h-max-1 ~ .h-max-750 (px,pt,em)*
 |   └── .h-max-1 ~ .h-max-100 (%,vh)*
 ├─── Width
 |   ├── .w-1 ~ .w-1000 (px,pt,em)*
 |   ├── .w-1 ~ .w-100 (%,vh)*
-|   ├── .w-min-1 ~ .w-min-1000 (px,pt,em)*
+|   ├── .w-min-1 ~ .w-min-750 (px,pt,em)*
 |   ├── .w-min-1 ~ .w-min-100 (%,vh)*
-|   ├── .w-max-1 ~ .w-max-1000 (px,pt,em)*
+|   ├── .w-max-1 ~ .w-max-750 (px,pt,em)*
 |   └── .w-max-1 ~ .w-max-100 (%,vh)*
 ├─── Margin left
-|   ├── .m-l-1-px ~ .m-l-1000-px
-|   ├── .m-l-n-1-px ~ .m-l-n-1000-px (minus value)
+|   ├── .m-l-1-px ~ .m-l-500-px
+|   ├── .m-l-n-1-px ~ .m-l-n-500-px (minus value)
 |   ├── .m-l-1 ~ .m-l-100
 |   └── .m-l-n-1 ~ .m-l-n-100 (minus value)
 ├─── Margin Right
-|   ├── .m-r-1-px ~ .m-r-1000-px
-|   ├── .m-r-n-1-px ~ .m-r-n-1000-px (minus value)
+|   ├── .m-r-1-px ~ .m-r-500-px
+|   ├── .m-r-n-1-px ~ .m-r-n-500-px (minus value)
 |   ├── .m-r-1 ~ .m-r-100
 |   └── .m-r-n-1 ~ .m-r-n-100 (minus value)
 ├─── Margin Top
-|   ├── .m-t-1-px ~ .m-t-1000-px
-|   ├── .m-t-n-1-px ~ .m-t-n-1000-px (minus value)
+|   ├── .m-t-1-px ~ .m-t-500-px
+|   ├── .m-t-n-1-px ~ .m-t-n-500-px (minus value)
 |   ├── .m-t-1 ~ .m-t-100
 |   └── .m-t-n-1 ~ .m-t-n-100 (minus value)
 ├─── Margin Bottom
-|   ├── .m-b-1-px ~ .m-b-1000-px
-|   ├── .m-b-n-1-px ~ .m-b-n-1000-px (minus value)
+|   ├── .m-b-1-px ~ .m-b-500-px
+|   ├── .m-b-n-1-px ~ .m-b-n-500-px (minus value)
 |   ├── .m-b-1 ~ .m-b-100
 |   └── .m-b-n-1 ~ .m-b-n-100 (minus value)
 ├─── Padding left
-|   ├── .p-l-1-px ~ .p-l-1000-px
-|   ├── .p-l-n-1-px ~ .p-l-n-1000-px (minus value)
+|   ├── .p-l-1-px ~ .p-l-500-px
+|   ├── .p-l-n-1-px ~ .p-l-n-500-px (minus value)
 |   ├── .p-l-1 ~ .p-l-100
 |   └── .p-l-n-1 ~ .p-l-n-100 (minus value)
 ├─── Padding Right
-|   ├── .p-r-1-px ~ .p-r-1000-px
-|   ├── .p-r-n-1-px ~ .p-r-n-1000-px (minus value)
+|   ├── .p-r-1-px ~ .p-r-500-px
+|   ├── .p-r-n-1-px ~ .p-r-n-500-px (minus value)
 |   ├── .p-r-1 ~ .p-r-100
 |   └── .p-r-n-1 ~ .p-r-n-100 (minus value)
 ├─── Padding Top
-|   ├── .p-t-1-px ~ .p-t-1000-px
-|   ├── .p-t-n-1-px ~ .p-t-n-1000-px (minus value)
+|   ├── .p-t-1-px ~ .p-t-500-px
+|   ├── .p-t-n-1-px ~ .p-t-n-500-px (minus value)
 |   ├── .p-t-1 ~ .p-t-100
 |   └── .p-t-n-1 ~ .p-t-n-100 (minus value)
 ├─── Padding Bottom
-|   ├── .p-b-1-px ~ .p-b-1000-px
-|   ├── .p-b-n-1-px ~ .p-b-n-1000-px (minus value)
+|   ├── .p-b-1-px ~ .p-b-500-px
+|   ├── .p-b-n-1-px ~ .p-b-n-500-px (minus value)
 |   ├── .p-b-1 ~ .p-b-100
 |   └── .p-b-n-1 ~ .p-b-n-100 (minus value)
 ├─── Opacity
@@ -154,7 +154,8 @@ configure.css
 
 More faster and more lighter to load
 
-- values (height,width,margin,padding) are limited to 500px
+- values height and width are limited to 500px
+- values margin and padding are limited to 250px
 - units available only `%`, `px`, `vw` and `vh`
 - Available values for color = 1 ~ 5
 
@@ -164,7 +165,7 @@ More faster and more lighter to load
 
 More available values
 
-- values (height,width,margin,padding) are limited to 1000px
+- values height, width, margin, and padding are limited to 1000(px,pt,em) 
 
 ---
 
