@@ -1,7 +1,11 @@
+<center>
+  
 # ConfigureCSS
 
 Make your coding more faster by just changing the class you want.
 
+<center>
+  
 ---
 
 ## Table of Contens
@@ -135,6 +139,7 @@ configure.css
 
 > **** value available = 1 ~ 10
 
+---
 
 ## New Update
 
@@ -152,6 +157,8 @@ Next update:
 - lite version
 
 For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">achmad.zahra62@gmail.com</a>
+
+---
 
 ## Creators
 
