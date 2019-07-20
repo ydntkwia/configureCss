@@ -24,7 +24,7 @@ Import `configure.css` or `configure.min.css` into your project.<br>
 
 ```html
 
-<link rel="stylesheet" type="text/css" href="Configure/configure.min.css">
+<link rel="stylesheet" type="text/css" href="Path/to/configure.min.css">
 ```
 
 Next just add the class you want to add inside the tag html you want to edit.<br>
