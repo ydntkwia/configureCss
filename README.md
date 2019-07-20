@@ -151,7 +151,7 @@ configure.css
 Tree view of `configure-lite.css`
 
 ```
-configure.css
+configure-lite.css
 ├─── Font
 |   ├── .f-break-all
 |   ├── .f-uppercase & .f-lowercase
