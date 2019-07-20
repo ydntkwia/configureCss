@@ -28,12 +28,12 @@ or
 ```css
 @import url(Path/to/configure.css);
 ```
-And if you don't want to download it, you can use this link
+And if you don't want to download it, you can use this link.
 ```html
 <link rel="stylesheet" type="text/css" href="https://zrafiq111.netlify.com/configure.css">
 ```
 
-`*` for file names adjust to what you want to use  `
+`*` for file names adjust to what you want to use.
 
 ---
 
