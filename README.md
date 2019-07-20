@@ -1,6 +1,7 @@
 # ConfigureCSS
 
-Make your coding more faster by just changing the class you want.
+No more editing css for a long time <br>
+This is very suitable for use as a complement to the CSS framework that you are using.
 
 ---
 
@@ -20,8 +21,12 @@ Make your coding more faster by just changing the class you want.
 Import `configure.css` or `configure.min.css` into your project.<br>
 
 ```html
+<link rel="stylesheet" type="text/css" href="Path/to/configure.css">
+```
+or
 
-<link rel="stylesheet" type="text/css" href="Path/to/configure.min.css">
+```css
+@import url(Path/to/configure.css);
 ```
 
 Next just add the class you want to add inside the tag html you want to edit.<br>
