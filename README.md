@@ -14,6 +14,7 @@ Make your coding more faster by just changing the class you want.
 - [Features](#Features)
 - [New Update](#New-Update)
 - [Next Update](#Next-Update)
+- [Creator](#Creator)
 
 ---
 
@@ -162,7 +163,7 @@ For request update just email me : <a href="mailto:achmad.zahra62@gmail.com">ach
 
 ---
 
-## Creators
+## Creator
 
 Ahmad Zahraturrafiq<br>
 Indonesia
