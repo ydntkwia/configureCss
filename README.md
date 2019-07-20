@@ -137,13 +137,13 @@ configure.css
 
 ```
 
-` *units available `
+` * `units available 
 
-` **if the unit class name is empty the unit will automatically go to percent `
+` **`if the unit class name is empty the unit will automatically go to percent 
  
-` *** color available = `grey` , `red` , `green` , `blue`, `yellow` `
+` ***` color available = `grey` , `red` , `green` , `blue`, `yellow` 
 
-` **** value available = 1 ~ 10 `
+` ****` value available = 1 ~ 10 
 
 
 
