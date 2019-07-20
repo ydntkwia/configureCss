@@ -145,6 +145,9 @@ configure.css
 
 ` ****` available values = 1 ~ 10 
 
+---
+
+
 > Lite Version
 
 `More faster and more lighter to load`
@@ -152,6 +155,8 @@ configure.css
 - values (height,width,margin,padding) are limited to 500px
 - units available only `%`, `px`, `vw` and `vh`
 - Available values for color = 1 ~ 5
+
+---
 
 > All Version
 
