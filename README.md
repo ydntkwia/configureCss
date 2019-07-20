@@ -75,43 +75,43 @@ configure.css
 ├─── Margin left
 |   ├── .m-l-1-px ~ .m-l-1000-px
 |   ├── .m-l-n-1-px ~ .m-l-n-1000-px (minus value)
-|   ├── .m-l-1 ~ .m-l-1000
-|   └── .m-l-n-1 ~ .m-l-n-1000 (minus value)
+|   ├── .m-l-1 ~ .m-l-100
+|   └── .m-l-n-1 ~ .m-l-n-100 (minus value)
 ├─── Margin Right
 |   ├── .m-r-1-px ~ .m-r-1000-px
 |   ├── .m-r-n-1-px ~ .m-r-n-1000-px (minus value)
-|   ├── .m-r-1 ~ .m-r-1000
-|   └── .m-r-n-1 ~ .m-r-n-1000 (minus value)
+|   ├── .m-r-1 ~ .m-r-100
+|   └── .m-r-n-1 ~ .m-r-n-100 (minus value)
 ├─── Margin Top
 |   ├── .m-t-1-px ~ .m-t-1000-px
 |   ├── .m-t-n-1-px ~ .m-t-n-1000-px (minus value)
-|   ├── .m-t-1 ~ .m-t-1000
-|   └── .m-t-n-1 ~ .m-t-n-1000 (minus value)
+|   ├── .m-t-1 ~ .m-t-100
+|   └── .m-t-n-1 ~ .m-t-n-100 (minus value)
 ├─── Margin Bottom
 |   ├── .m-b-1-px ~ .m-b-1000-px
 |   ├── .m-b-n-1-px ~ .m-b-n-1000-px (minus value)
-|   ├── .m-b-1 ~ .m-b-1000
-|   └── .m-b-n-1 ~ .m-b-n-1000 (minus value)
+|   ├── .m-b-1 ~ .m-b-100
+|   └── .m-b-n-1 ~ .m-b-n-100 (minus value)
 ├─── Padding left
 |   ├── .p-l-1-px ~ .p-l-1000-px
 |   ├── .p-l-n-1-px ~ .p-l-n-1000-px (minus value)
-|   ├── .p-l-1 ~ .p-l-1000
-|   └── .p-l-n-1 ~ .p-l-n-1000 (minus value)
+|   ├── .p-l-1 ~ .p-l-100
+|   └── .p-l-n-1 ~ .p-l-n-100 (minus value)
 ├─── Padding Right
 |   ├── .p-r-1-px ~ .p-r-1000-px
 |   ├── .p-r-n-1-px ~ .p-r-n-1000-px (minus value)
-|   ├── .p-r-1 ~ .p-r-1000
-|   └── .p-r-n-1 ~ .p-r-n-1000 (minus value)
+|   ├── .p-r-1 ~ .p-r-100
+|   └── .p-r-n-1 ~ .p-r-n-100 (minus value)
 ├─── Padding Top
 |   ├── .p-t-1-px ~ .p-t-1000-px
 |   ├── .p-t-n-1-px ~ .p-t-n-1000-px (minus value)
-|   ├── .p-t-1 ~ .p-t-1000
-|   └── .p-t-n-1 ~ .p-t-n-1000 (minus value)
+|   ├── .p-t-1 ~ .p-t-100
+|   └── .p-t-n-1 ~ .p-t-n-100 (minus value)
 ├─── Padding Bottom
 |   ├── .p-b-1-px ~ .p-b-1000-px
 |   ├── .p-b-n-1-px ~ .p-b-n-1000-px (minus value)
-|   ├── .p-b-1 ~ .p-b-1000
-|   └── .p-b-n-1 ~ .p-b-n-1000 (minus value)
+|   ├── .p-b-1 ~ .p-b-100
+|   └── .p-b-n-1 ~ .p-b-n-100 (minus value)
 ├─── Opacity
 |   └── .o-0 ~ .o-1
 ├─── Color
@@ -149,6 +149,98 @@ configure.css
 > lighter and faster to load but still has all the standard features
 
 Tree view of `configure-lite.css`
+
+```
+configure.css
+├─── Font
+|   ├── .f-break-all
+|   ├── .f-uppercase & .f-lowercase
+|   ├── .f-left & .f-right
+|   ├── .f-center
+|   ├── .f-bold & .f-light
+|   └── .f-1 ~ .f-100 (%,px)*
+├─── Height
+|   ├── .h-1-px ~ .h-500-px
+|   ├── .h-1 ~ .h-100 (%,vh)*
+|   ├── .h-min-1-px ~ .h-min-500-px
+|   ├── .h-min-1 ~ .h-min-100 (%,vh)*
+|   ├── .h-max-1-px ~ .h-max-500-px
+|   └── .h-max-1 ~ .h-max-100 (%,vh)*
+├─── Width
+|   ├── .w-1-px ~ .w-500-px
+|   ├── .w-1 ~ .w-100 (%,vh)*
+|   ├── .w-min-1-px ~ .w-min-500-px
+|   ├── .w-min-1 ~ .w-min-100 (%,vh)*
+|   ├── .w-max-1-px ~ .w-max-500-px
+|   └── .w-max-1 ~ .w-max-100 (%,vh)*
+├─── Margin left
+|   ├── .m-l-1-px ~ .m-l-1000-px
+|   ├── .m-l-n-1-px ~ .m-l-n-1000-px (minus value)
+|   ├── .m-l-1 ~ .m-l-100
+|   └── .m-l-n-1 ~ .m-l-n-100 (minus value)
+├─── Margin Right
+|   ├── .m-r-1-px ~ .m-r-250-px
+|   ├── .m-r-n-1-px ~ .m-r-n-250-px (minus value)
+|   ├── .m-r-1 ~ .m-r-100
+|   └── .m-r-n-1 ~ .m-r-n-100 (minus value)
+├─── Margin Top
+|   ├── .m-t-1-px ~ .m-t-250-px
+|   ├── .m-t-n-1-px ~ .m-t-n-250-px (minus value)
+|   ├── .m-t-1 ~ .m-t-100
+|   └── .m-t-n-1 ~ .m-t-n-100 (minus value)
+├─── Margin Bottom
+|   ├── .m-b-1-px ~ .m-b-250-px
+|   ├── .m-b-n-1-px ~ .m-b-n-250-px (minus value)
+|   ├── .m-b-1 ~ .m-b-100
+|   └── .m-b-n-1 ~ .m-b-n-100 (minus value)
+├─── Padding left
+|   ├── .p-l-1-px ~ .p-l-250-px
+|   ├── .p-l-n-1-px ~ .p-l-n-250-px (minus value)
+|   ├── .p-l-1 ~ .p-l-100
+|   └── .p-l-n-1 ~ .p-l-n-100 (minus value)
+├─── Padding Right
+|   ├── .p-r-1-px ~ .p-r-250-px
+|   ├── .p-r-n-1-px ~ .p-r-n-250-px (minus value)
+|   ├── .p-r-1 ~ .p-r-100
+|   └── .p-r-n-1 ~ .p-r-n-100 (minus value)
+├─── Padding Top
+|   ├── .p-t-1-px ~ .p-t-250-px
+|   ├── .p-t-n-1-px ~ .p-t-n-250-px (minus value)
+|   ├── .p-t-1 ~ .p-t-100
+|   └── .p-t-n-1 ~ .p-t-n-100 (minus value)
+├─── Padding Bottom
+|   ├── .p-b-1-px ~ .p-b-250-px
+|   ├── .p-b-n-1-px ~ .p-b-n-250-px (minus value)
+|   ├── .p-b-1 ~ .p-b-100
+|   └── .p-b-n-1 ~ .p-b-n-100 (minus value)
+├─── Opacity
+|   └── .o-0 ~ .o-1
+├─── Color
+|   ├── .black-font & .black-text
+|   ├── .white-font & .white-bg
+|   ├── .color***-value****-text
+|   └── .color***-value****-bg
+├─── Text
+|   ├── .t-d-underline
+|   └── .t.d-none
+└─── Other
+    ├── .t-l (top left)
+    ├── .t-r (top right)
+    ├── .b-l (bottom left)
+    ├── .b-r (bottom right)
+    ├── .o-x-hidden (overflow x hidden)
+    ├── .o-y-hidden (overflow y hidden)
+    └── .border-0
+
+```
+
+> *units available
+
+> **if the unit class name is empty the unit will automatically go to percent
+ 
+> *** color available = `grey` , `red` , `green` , `blue`, `yellow`
+
+> **** value available = 1 ~ 5
 
 ---
 
