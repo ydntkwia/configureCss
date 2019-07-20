@@ -58,16 +58,33 @@ configure.css
 ├─── Height
 |   ├── .h-1 ~ .h-100
 |   ├── .h-1-px ~ .h-1000-px
-|   ├── .h-1-pt ~ .h-100-pt
-|   ├── .h-1-em ~ .h-100-em
-|   └── .h-1-vh ~ .h-100-vh
+|   ├── .h-1-pt ~ .h-1000-pt
+|   ├── .h-1-em ~ .h-1000-em
+|   ├── .h-1-vh ~ .h-100-vh
+|   ├── .h-min-1-px ~ .h-min-1000-px
+|   ├── .h-min-1-pt ~ .h-min-1000-pt
+|   ├── .h-min-1-em ~ .h-min-1000-em
+|   ├── .h-min-1-vh ~ .h-min-100-vh
+|   ├── .h-max-1-px ~ .h-max-1000-px
+|   ├── .h-max-1-pt ~ .h-max-1000-pt
+|   ├── .h-max-1-em ~ .h-max-1000-em
+|   └── .h-max-1-vh ~ .h-max-100-vh
 ├─── Width
 |   ├── .w-1 ~ .w-100
 |   ├── .w-1-px ~ .w-1000-px
-|   ├── .w-1-pt ~ .w-100-pt
-|   ├── .w-1-em ~ .w-100-em
-|   └── .w-1-vw ~ .w-100-vw
-
+|   ├── .w-1-pt ~ .w-1000-pt
+|   ├── .w-1-em ~ .w-1000-em
+|   ├── .w-1-vw ~ .w-100-vw
+|   ├── .w-min-1-px ~ .w-min-1000-px
+|   ├── .w-min-1-pt ~ .w-min-1000-pt
+|   ├── .w-min-1-em ~ .w-min-1000-em
+|   ├── .w-min-1-vw ~ .w-min-100-vw
+|   ├── .w-max-1-px ~ .w-max-1000-px
+|   ├── .w-max-1-pt ~ .w-max-1000-pt
+|   ├── .w-max-1-em ~ .w-max-1000-em
+|   └── .w-max-1-vw ~ .w-max-100-vw
+├─── 
+|   ├── 
 
 ```
 
