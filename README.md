@@ -3,6 +3,8 @@
 No more editing css for a long time <br>
 This is very suitable for use as a complement to the CSS framework that you are using.
 
+> Not a responsive framework css like `bootstrap` and etc. This is only complementary
+
 ---
 
 ## Table of Contens
