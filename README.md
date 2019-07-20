@@ -50,7 +50,6 @@ The structure:
 Tree view of `configure.css`
 
 ```
-
 configure.css
 ├─── Font
 |   ├── .f-break-all
