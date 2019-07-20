@@ -248,8 +248,8 @@ configure-lite.css
 
 > v.1.1.0 
 
--Color configuration for background and font. 
--configure-lite.css & configure-lite.min.css
+- +Color configuration for background and font. 
+- +configure-lite.css & configure-lite.min.css
 
 ---
 
