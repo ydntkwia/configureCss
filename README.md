@@ -23,7 +23,7 @@ Make your coding more faster by just changing the class you want.
 
 ## Example
 
-![](https://github.com/zrafiq111/configureCss/blob/master/doc/configure.mp4)
+![](https://github.com/zrafiq111/configureCss/blob/master/doc/configure.mp4?raw=true)
 
 ## Installation
 
