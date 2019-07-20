@@ -145,6 +145,8 @@ configure.css
 
 > v.1.1.0 +Color configuration for background and font.
 
+---
+
 ## Next Update
 
 > updates will be made regularly every once a week <br>
