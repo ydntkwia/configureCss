@@ -192,6 +192,7 @@ More available values.
 
 Next update:
 
+- Line height
 - Color custom
 - All font Weight
 - All padding and margin configuration
