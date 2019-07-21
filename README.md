@@ -1,6 +1,6 @@
 # ConfigureCSS
 
-No more editing css for a long time <br>
+No more editing css for a long time. <br>
 This is very suitable for use as a complement to the CSS framework that you are using.
 
 > ConfigureCSS is not a responsive framework css like `bootstrap` and etc. This is only complement css
@@ -33,13 +33,13 @@ And if you don't want to download it, you can use this link.
 <link rel="stylesheet" type="text/css" href="https://zrafiq111.netlify.com/configure.css">
 ```
 
-`*` for file names adjust to what you want to use.
+`*` for the name of file you can adjust it to what you want to use.
 
 ---
 
 ## Example
 
-Just add the class you want to add inside the tag html you want to edit.<br>
+You can add the class and add it inside the tag html you want to edit. <br>
 
 ![Recordit GIF](http://g.recordit.co/TFN51E19AC.gif)
 
@@ -159,7 +159,7 @@ configure.css
 
 > Lite Version
 
-More faster and more lighter to load
+More faster and more light to load.
 
 - values height and width are limited to 500px
 - values margin and padding are limited to 250px
@@ -170,7 +170,7 @@ More faster and more lighter to load
 
 > All Version
 
-More available values
+More available values.
 
 - values height, width, margin, and padding are limited to 1000(px,pt,em) 
 
@@ -181,14 +181,14 @@ More available values
 
 > v.1.1.0 
 
-- +Color configuration for background and font. 
+- +Colour configuration for background and font. 
 - +configure-lite.css & configure-lite.min.css
 
 ---
 
 ## Next Update
 
-> updates will be made regularly every once a week <br>
+> All updates will be there every once a week <br>
 
 Next update:
 
