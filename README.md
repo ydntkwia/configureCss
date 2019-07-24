@@ -33,18 +33,15 @@ And if you don't want to download it, you can use this link.
 <link rel="stylesheet" type="text/css" href="https://zrafiq111.netlify.com/configure.css">
 ```
 
-`*` for the name of file you can adjust it to what you want to use.
-
 ---
 
 ## Example
 
 You can add the class and add it inside the tag html you want to edit. <br>
 
-![Recordit GIF](http://g.recordit.co/TFN51E19AC.gif)
+[![zrafiq111](https://raw.githubusercontent.com/zrafiq111/User-profile/master/before.png)]
 
 ```html
-
 <div class="h-250-px w-250-px red-9-bg">
   <p class="f-center white-font f-20-px f-uppercase">Hallo</p>
 </div>
