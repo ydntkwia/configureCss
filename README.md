@@ -37,15 +37,31 @@ And if you don't want to download it, you can use this link.
 
 ## Example
 
-You can add the class and add it inside the tag html you want to edit. <br>
+> You can add the class and add it inside the tag html you want to edit. <br>
 
-[![zrafiq111](https://raw.githubusercontent.com/zrafiq111/User-profile/master/before.png)]
+<img src="https://raw.githubusercontent.com/zrafiq111/User-profile/master/before.png" width="60%">
 
 ```html
-<div class="h-250-px w-250-px red-9-bg">
-  <p class="f-center white-font f-20-px f-uppercase">Hallo</p>
-</div>
+<h2 class=" `fw-8` `grey-8-font` " data-animate="ts-fadeInUp">APA KATA MEREKA?</h2>
+<blockquote class="blockquote mt-150px">
+  <figure>
+    <aside>
+      <i class="fa fa-quote-right"></i>
+    </aside>
+   <div class="ts-circle__lg"></div>
+  </figure>
+  <p class=" `f-center` `grey-5-font` ">
+  Morbi et nisl a sapien malesuada scelerisque. Suspendisse tempor turpis mattis nibh posuere. Aenean sagittis nisl.
+  uthicula sagitti
+  </p>
+  <footer class="blockquote-footer">
+  <h4 class=" `red-7-font` `f-up` `fw-6` ">Ahmad Zahraturrafiq</h4>
+  <h6 class=" `red-7-font` `fw-5` ">SMKN 1 CIREBON</h6>
+  </footer>
+</blockquote>
 ```
+
+<img src="https://raw.githubusercontent.com/zrafiq111/User-profile/master/AFTER.png" width="60%">
 
 The structure:
 
