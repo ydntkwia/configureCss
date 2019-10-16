@@ -1,0 +1,39 @@
+/*---Other---*/
+.tl 
+	position : absolute
+	left : 0px
+	top : 0px !important
+
+.tr 
+	position : absolute
+	right : 0px
+	top : 0px !important
+
+.bl 
+	position : absolute
+	left : 0px
+	bottom : 0px !important
+
+.br 
+	position : absolute
+	right : 0px
+	bottom : 0px !important
+
+.oxhide
+	overflow-x : hidden !important
+
+.oyhide
+	overflow-y : hidden !important
+
+.bw0
+	border-width : 0 !important
+
+.borderround
+	border-radius : 20px
+
+// opacity
+@for $opacity from 1 through 10
+	.#{$v-opacity}#{$opacity}
+		opacity  :  0 + $opacity / 10  !important
+	
+	

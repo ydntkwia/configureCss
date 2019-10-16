@@ -1,0 +1,62 @@
+// text customization
+.fbreak
+	word-break : break-all !important
+
+.fup
+	text-transform : uppercase !important
+
+.flow
+	text-transform : lowercase !important
+
+.fleft
+	text-align : left !important
+
+.fright
+	text-align : right !important
+
+.fcenter
+	text-align : center !important
+
+.fbold
+	font-weight : bold !important
+
+.flight
+	font-weight : lighter !important
+
+.tdnone
+	text-decoration : none !important
+
+.tdunderline
+	text-decoration : underline !important
+
+	//font customization
+// font weight 
+@for $i from 1 through 10
+	.#{$fw}#{$i}
+		font-weight :  100 * $i !important
+	
+
+// font size
+	// %
+@for $fp from 1 through 100
+	.#{$f}#{$fp}
+		font-size :  0% + $fp !important
+	
+
+	// px
+@for $fpx from 1 through 100
+	.#{$f}#{$fpx}px
+		font-size :  0px + $fpx !important
+	
+
+	// vh
+@for $fvh from 1 through 100
+	.#{$f}#{$fvh}vh
+		font-size :  0vh + $fvh !important
+	
+
+	// vw
+@for $fvw from 1 through 100
+	.#{$f}#{$fvw}vw
+		font-size :  0vw + $fvw !important
+	

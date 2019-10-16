@@ -1,0 +1,58 @@
+
+// width
+	// %
+@for $wp from 1 through 100{
+	.#{$w}#{$wp}{
+		width: 0% + $wp !important;
+	}
+}
+	//vw
+@for $hvw from 1 through 100{
+	.#{$w}#{$hvw}vw{
+		width: 0vw + $hvw !important;
+	}
+}
+	//px
+@for $wpx from 1 through 500{
+	.#{$w}#{$wpx}px{
+		width: 0px + $wpx !important;
+	}
+}
+// max-width
+	// %
+@for $wmaxp from 1 through 100{
+	.#{$wmax}#{$wmaxp}{
+		max-width: 0% + $wmaxp !important;
+	}
+}
+	// vh
+@for $wmaxvh from 1 through 100{
+	.#{$wmax}#{$wmaxvh}vh{
+		max-width: 0vh + $wmaxvh !important;
+	}
+}
+	// px
+@for $wmaxpx from 1 through 500{
+	.#{$wmax}#{$wmaxpx}px{
+		max-width: 0px + $wmaxpx !important;
+	}
+}
+// min-width
+	// %
+@for $wminp from 1 through 100{
+	.#{$wmin}#{$wminp}{
+		min-width: 0% + $wminp !important;
+	}
+}
+	// vh
+@for $wminvh from 1 through 100{
+	.#{$wmin}#{$wminvh}vh{
+		min-width: 0vh + $wminvh !important;
+	}
+}
+	// px
+@for $wminpx from 1 through 500{
+	.#{$wmin}#{$wminpx}px{
+		min-width: 0px + $wminpx !important;
+	}
+}

@@ -1,0 +1,56 @@
+// padding
+	//all
+	@for $p-all from 1 through 150{
+		.#{$padding}#{$p-all}{
+			padding: 0px + $p-all !important;
+		}
+	}		
+	// bottom
+	@for $p-all from 1 through 150{
+		.#{$padding-bottom}#{$p-all}{
+			padding-bottom: 0px + $p-all !important;
+		}
+	}	
+	// top
+	@for $p-all from 1 through 150{
+		.#{$padding-top}#{$p-all}{
+			padding-top: 0px + $p-all !important;
+		}
+	}	
+	// left
+	@for $p-all from 1 through 150{
+		.#{$padding-left}#{$p-all}{
+			padding-left: 0px + $p-all !important;
+		}
+	}	
+	// Right
+	@for $p-all from 1 through 150{
+		.#{$padding-right}#{$p-all}{
+			padding-right: 0px + $p-all !important;
+		}
+	}	
+// padding-negatif
+	// bottom
+	@for $p-all from 1 through 150{
+		.#{$padding-negatif-bottom}#{$p-all}{
+			padding-bottom: 0px - $p-all !important;
+		}
+	}	
+	// top
+	@for $p-all from 1 through 150{
+		.#{$padding-negatif-top}#{$p-all}{
+			padding-top: 0px - $p-all !important;
+		}
+	}	
+	// left
+	@for $p-all from 1 through 150{
+		.#{$padding-negatif-left}#{$p-all}{
+			padding-left: 0px - $p-all !important;
+		}
+	}	
+	// Right
+	@for $p-all from 1 through 150{
+		.#{$padding-negatif-right}#{$p-all}{
+			padding-right: 0px - $p-all !important;
+		}
+	}	

@@ -1,0 +1,40 @@
+// font
+$fw : fw !default; //font weight
+$f : f !default; //font size
+// size
+$h : h !default; //height
+$w : w !default; //width
+$hmax : hmax !default; //height-max
+$hmin : hmin !default; //height-min
+$wmax : wmax !default; //width-max
+$wmin : wmin !default; //width-min
+// margin
+$margin : m !default; //all margin
+$margin-bottom : mb !default; //margin bottom
+$margin-top : mt !default; //margin top
+$margin-left: ml !default; //margin left
+$margin-right : mr !default; //margin Right
+// margin negatif value
+$margin-negatif-bottom : mbn !default; //margin bottom
+$margin-negatif-top : mtn !default; //margin top
+$margin-negatif-left: mln !default; //margin left
+$margin-negatif-right : mrn !default; //margin Right
+// padding
+$padding : p !default; //all padding
+$padding-bottom : pb !default; //padding bottom
+$padding-top: pt !default; //padding top
+$padding-left: pl !default; //padding left
+$padding-right : pr !default; //padding Right
+// padding negatif value
+$padding-negatif-bottom : pbn !default; //padding bottom
+$padding-negatif-top : ptn !default; //padding top
+$padding-negatif-left: pln !default; //padding left
+$padding-negatif-right : prn !default; //padding Right
+// opacity
+$v-opacity: o !default;
+// custom-color
+$cc1 : black;
+$cc2 : black;
+$cc3 : black;
+$cc4 : black;
+$cc5 : black;

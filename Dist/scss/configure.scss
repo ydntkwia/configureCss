@@ -1,0 +1,51 @@
+/*!
+* configure.css v2.1.0
+* Copyright 2019, Ahmad Zahraturrafiq
+* Licensed under MIT (https://github.com/zrafiq111/configureCss/blob/master/LICENSE) 
+*/
+
+/*
+| -------------------------------------------------------------------
+| 							Default Structure
+| -------------------------------------------------------------------
+|
+| These are the default structure of configure-css
+| But you can customize it according to what you will use
+| If you want only to use some of features 
+| Just press ctrl + forward slash(/) in @import line you dont wanna use
+|
+| 1. variables --> Important! Dont disable this line
+| 	 all variables for set some of class name
+|
+| 2. basic-config
+| 	 position, overflow, border and opacity
+|
+| 3. color (background and text)
+| 	 custom color, black, grey, red, green, blue and yellow
+|
+| 4. margin (positive and minus value)(px)
+| 	 all, left, right, top, and bottom  
+|
+| 5. padding (positive and minus value)(px)
+| 	 all, left, right, top, and bottom  
+|
+| 6. text&font
+| 	 text transform, text align, font weight and font size (px, %, vh, vw)
+|
+| 7. height (%, vh, px)
+| 	 height, max-height and min-height
+|
+| 8. width (%,vw, px)
+| 	 width, max-width and min-width
+|
+| -------------------------------------------------------------------
+*/
+
+@import "variables"; //!important! Dont disable this line
+@import "basic-config";
+@import "color";
+@import "margin";
+@import "padding";
+@import	"text&font";
+@import "height";
+@import "width";
